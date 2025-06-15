@@ -1,5 +1,5 @@
 # test
-% gh auth login
+テキスト
 
 
 
